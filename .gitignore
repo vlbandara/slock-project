@@ -1,0 +1,13 @@
+# Firmware configuration
+firmware/src/config.h
+
+# Cloud Functions environment variables
+cloud-functions/functions/.env
+
+# Flutter configuration
+mobile-app/lib/config.dart
+
+# Other common exclusions
+*.log
+node_modules/
+.env
