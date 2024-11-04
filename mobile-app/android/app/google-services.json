@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "396546027123",
+    "firebase_url": "https://slock-37e7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "slock-37e7b",
+    "storage_bucket": "slock-37e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396546027123:android:dde4cb4fa28b36aa5d4406",
+        "android_client_info": {
+          "package_name": "com.example.slock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZFOYNnoSDrclYvFSdfzuoqilr_434do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
