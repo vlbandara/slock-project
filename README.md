@@ -226,16 +226,8 @@ flutter pub get
 
 Create a config.dart file inside the mobile-app/lib/ directory to store your Firebase configurations.
 
-dart
-// mobile-app/lib/config.dart
-const String firebaseApiKey = 'YOUR_FIREBASE_API_KEY';
-const String projectId = 'YOUR_PROJECT_ID';
-const String messagingSenderId = 'YOUR_MESSAGING_SENDER_ID';
-const String appId = 'YOUR_APP_ID';
-const String databaseURL = 'YOUR_DATABASE_URL';
 
 
-*Note:* Replace the placeholder values with your actual Firebase project details. *Do not commit* this file to GitHub.
 
 #### d. Update .gitignore
 
